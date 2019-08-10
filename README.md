@@ -6,6 +6,6 @@ Only clean KODI thumbs cache: removes `Thumbnails` folder and `Textures13.db` fi
 
 ## Portable mode?
 If would like to run this script in standard mode just change
-* Line 3: KODI path
-* Line 4: `userdata` folder
-* Line 30: Remove `-p` parameter
+* Line 3: *KODI path*
+* Line 4: *`userdata` folder*
+* Line 30: *Remove `-p` parameter*
